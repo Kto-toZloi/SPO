@@ -11,7 +11,7 @@ import RPN
 
 root = Tk()
 root.title("ДЕМО интерпретатор")
-root.geometry('900x900')
+root.geometry('900x530')
 root.resizable(width=False, height=False)
 
 def fun(text):
@@ -31,7 +31,7 @@ def fun(text):
 	lab = Label(frame, text="Текст введённого файла")
 	inserted = Text(frame, width=50, height=20)	
 	
-	res = Text(frame, width=200, height=20)	 
+	res = Text(frame, width = 200, height = 20)	 
 
 	
 	L = Lexer.Lexer(cur_file) # Указать название файла с кодом
@@ -90,7 +90,7 @@ mainmenu = Menu(root)
 root.config(menu=mainmenu) 
 
 
-text = Text(fr_in, width=100, height=50)
+text = Text(fr_in, width=100, height=30)
 text.pack(side=LEFT)
  
 scroll = Scrollbar(fr_in, command=text.yview)
@@ -99,7 +99,7 @@ scroll.pack(side=LEFT, fill=Y)
 text.config(yscrollcommand=scroll.set)
 
 frame = Frame()
-frame.pack(side=BOTTOM)
+frame.pack(side=TOP)
 
 Button(frame, text="Выполнить", command=lambda:fun(text)).pack(side=LEFT)
 
