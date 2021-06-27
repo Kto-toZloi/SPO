@@ -27,9 +27,12 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=4
-FILE_NAME_0=780;Python;0;EUTF-8;1;1;0;C%3A%5CUsers%5CНикита%5CDesktop%5CInt%5Cvisual.py;0;4
+current_page=7
+FILE_NAME_0=542;Python;0;EUTF-8;1;1;0;C%3A%5CUsers%5CНикита%5CDesktop%5CInt%5Cvisual.py;0;4
 FILE_NAME_1=1491;Python;0;EUTF-8;1;1;0;C%3A%5CUsers%5CНикита%5CDesktop%5CInt%5CLexer.py;0;4
 FILE_NAME_2=695;Python;0;EUTF-8;1;1;0;C%3A%5CUsers%5CНикита%5CDesktop%5CInt%5CParser.py;0;4
 FILE_NAME_3=774;Python;0;EUTF-8;1;1;0;C%3A%5CUsers%5CНикита%5CDesktop%5CInt%5CRPN.py;0;4
 FILE_NAME_4=3960;Python;0;EUTF-8;1;1;0;C%3A%5CUsers%5CНикита%5CDesktop%5CInt%5CTuringMachine.py;0;4
+FILE_NAME_5=171;None;0;EUTF-8;1;1;0;C%3A%5CUsers%5CНикита%5CDesktop%5CInt%5CTEST2.mylang;0;4
+FILE_NAME_6=0;None;0;EUTF-8;1;1;0;C%3A%5CUsers%5CНикита%5CDesktop%5CInt%5CTEST6.mylang;0;4
+FILE_NAME_7=0;None;0;EUTF-8;1;1;0;C%3A%5CUsers%5CНикита%5CDesktop%5CInt%5CTEST4.mylang;0;4

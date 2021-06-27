@@ -8,9 +8,9 @@ print(a*2+b+3/4)
 HashMap(a)
 HashMap(b)
 
-put(a 12 gsdg)
-put(a 123 asdg)
-put(b sas 12)
+put(a 1 privet)
+put(a 12 mir)
+put(b AVRORA 123)
 
 print(a)
 print(get(a 12))
