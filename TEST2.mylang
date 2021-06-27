@@ -1,0 +1,16 @@
+a := 10
+b := 12
+while (a > 12 & b > 4) {b := b/2  a := a + 1}
+
+print(a)
+print(a*2+b+3/4)
+
+HashMap(a)
+HashMap(b)
+
+put(a 12 gsdg)
+put(a 123 asdg)
+put(b sas 12)
+
+print(a)
+print(get(a 12))

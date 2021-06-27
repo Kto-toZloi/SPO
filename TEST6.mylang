@@ -1,0 +1,16 @@
+a := 25
+c := (a+1) * 2
+x := 1
+b := 1
+if (a>5) {
+    x := x+1
+    b := b+c
+    if (a>0) {a := a +1 * (2+1)}
+        else {c:=c}
+    }
+    else {c := c + 1}
+if (b>=b) {b:=b+b - b}
+print(a)
+print(b)
+print(c)
+print(x)

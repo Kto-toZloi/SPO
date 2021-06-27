@@ -1,0 +1,23 @@
+HashMap(a)
+DoubleLinkedList(b)
+
+put(a hello 3)
+put(a world 228)
+put(a lol 223)
+print(a)
+rem(a world)
+print(a)
+
+print(get(a hello))
+
+put(b 0 1)
+put(b 1 55)
+put(b 2 66)
+put(b 0 46)
+print(b)
+rem(b 1)
+print(5/4)
+
+print(a)
+print(b)
+

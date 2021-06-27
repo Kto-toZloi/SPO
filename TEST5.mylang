@@ -1,0 +1,15 @@
+a := 200
+b := 12
+a := a + 31
+while (a > 0) {
+        b := b * a - a/b
+        if (a > 4) { 
+		a := a - 2 
+	} 
+	else { 
+		a := a - 1 
+		b := a + b
+	}
+    }
+print(a)
+print(b)
